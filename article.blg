@@ -1,0 +1,50 @@
+This is BibTeX, Version 0.99d (TeX Live 2011)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: article.aux
+The style file: achemso.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: acs-article.bib
+Database file #2: biblio.bib
+Warning--I didn't find a database entry for "guinier_book"
+You've used 14 entries,
+            2429 wiz_defined-function locations,
+            817 strings with 8823 characters,
+and the built_in function-call counts, 4986 in all, are:
+= -- 375
+> -- 324
+< -- 7
++ -- 129
+- -- 115
+* -- 553
+:= -- 687
+add.period$ -- 13
+call.type$ -- 14
+change.case$ -- 2
+chr.to.int$ -- 2
+cite$ -- 14
+duplicate$ -- 279
+empty$ -- 305
+format.name$ -- 129
+if$ -- 909
+int.to.chr$ -- 0
+int.to.str$ -- 1
+missing$ -- 0
+newline$ -- 99
+num.names$ -- 39
+pop$ -- 30
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 0
+stack$ -- 0
+substring$ -- 306
+swap$ -- 306
+text.length$ -- 26
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 95
+warning$ -- 0
+while$ -- 52
+width$ -- 0
+write$ -- 174
+(There was 1 warning)

@@ -1,0 +1,121 @@
+\providecommand*\mcitethebibliography{\thebibliography}
+\csname @ifundefined\endcsname{endmcitethebibliography}
+  {\let\endmcitethebibliography\endthebibliography}{}
+\begin{mcitethebibliography}{14}
+\providecommand*\natexlab[1]{#1}
+\providecommand*\mciteSetBstSublistMode[1]{}
+\providecommand*\mciteSetBstMaxWidthForm[2]{}
+\providecommand*\mciteBstWouldAddEndPuncttrue
+  {\def\EndOfBibitem{\unskip.}}
+\providecommand*\mciteBstWouldAddEndPunctfalse
+  {\let\EndOfBibitem\relax}
+\providecommand*\mciteSetBstMidEndSepPunct[3]{}
+\providecommand*\mciteSetBstSublistLabelBeginEnd[3]{}
+\providecommand*\EndOfBibitem{}
+\mciteSetBstSublistMode{f}
+\mciteSetBstMaxWidthForm{subitem}{(\alph{mcitesubitemcount})}
+\mciteSetBstSublistLabelBeginEnd
+  {\mcitemaxwidthsubitemform\space}
+  {\relax}
+  {\relax}
+
+\bibitem[Glotzer and Solomon(2007)Glotzer, and Solomon]{Glotzer:2007ib}
+Glotzer,~S.~C.; Solomon,~M.~J. \emph{Nature Materials} \textbf{2007}, \emph{6},
+  557--562\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Saunders et~al.(2006)Saunders, Ghezelbash, Smilgies, Sigman, and
+  Korgel]{Saunders:2006hu}
+Saunders,~A.~E.; Ghezelbash,~A.; Smilgies,~D.-M.; Sigman,~M.~B.; Korgel,~B.~A.
+  \emph{Nano Lett.} \textbf{2006}, \emph{6}, 2959--2963\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Paik et~al.(2011)Paik, Ko, Gordon, Doan-Nguyen, and
+  Murray]{Paik:2011if}
+Paik,~T.; Ko,~D.-K.; Gordon,~T.~R.; Doan-Nguyen,~V.; Murray,~C.~B. \emph{ACS
+  Nano} \textbf{2011}, \emph{5}, 8322--8330\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Ye et~al.(2013)Ye, Chen, Engel, Millan, Li, Qi, Xing, Collins, Kagan,
+  Li, Glotzer, and Murray]{Ye:2013dh}
+Ye,~X.; Chen,~J.; Engel,~M.; Millan,~J.~A.; Li,~W.; Qi,~L.; Xing,~G.;
+  Collins,~J.~E.; Kagan,~C.~R.; Li,~J.; Glotzer,~S.~C.; Murray,~C.~B.
+  \emph{Nature Chemistry} \textbf{2013}, 1--8\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Jones et~al.(2011)Jones, Macfarlane, Prigodich, Patel, and
+  Mirkin]{Jones:2011ba}
+Jones,~M.~R.; Macfarlane,~R.~J.; Prigodich,~A.~E.; Patel,~P.~C.; Mirkin,~C.~A.
+  \emph{J. Am. Chem. Soc.} \textbf{2011}, \emph{133}, 18865--18869\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Young et~al.(2012)Young, Jones, and Zhang]{Young:2012wv}
+Young,~K.; Jones,~M.; Zhang,~J. \emph{Proceedings of the {\ldots}}
+  \textbf{2012}, \relax
+\mciteBstWouldAddEndPunctfalse
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Ithurria et~al.(2011)Ithurria, Tessier, Mahler, Lobo, Dubertret, and
+  Efros]{Ithurria:2011jt}
+Ithurria,~S.; Tessier,~M.~D.; Mahler,~B.; Lobo,~R. P. S.~M.; Dubertret,~B.;
+  Efros,~A.~L. \emph{Nature Materials} \textbf{2011}, \emph{10}, 1--6\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Ithurria et~al.(2011)Ithurria, Bousquet, and
+  Dubertret]{Ithurria:2011bi}
+Ithurria,~S.; Bousquet,~G.; Dubertret,~B. \emph{J. Am. Chem. Soc.}
+  \textbf{2011}, \emph{133}, 3070--3077\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Ithurria and Dubertret(2008)Ithurria, and Dubertret]{Ithurria:2008fz}
+Ithurria,~S.; Dubertret,~B. \emph{J. Am. Chem. Soc.} \textbf{2008}, \emph{130},
+  16504--16505\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Tessier et~al.(2012)Tessier, Javaux, Maksimovic, Loriette, and
+  Dubertret]{Tessier:2012js}
+Tessier,~M.~D.; Javaux,~C.; Maksimovic,~I.; Loriette,~V.; Dubertret,~B.
+  \emph{ACS Nano} \textbf{2012}, \emph{6}, 6751--6758\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Yang et~al.(2005)Yang, Wu, Williams, and Cao]{Yang:2005kc}
+Yang,~Y.~A.; Wu,~H.; Williams,~K.~R.; Cao,~Y.~C. \emph{Angew. Chem.}
+  \textbf{2005}, \emph{117}, 6870--6873\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Smilgies(2009)]{Smilgies:2009et}
+Smilgies,~D.~M. \emph{J. Appl. Cryst (2009). 42, 1030-1034
+  [doi:10.1107/S0021889809040126]} \textbf{2009}, 1--5\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Geyer et~al.(2012)Geyer, Born, and Kraus]{Geyer:2012he}
+Geyer,~T.; Born,~P.; Kraus,~T. \emph{Phys. Rev. Lett.} \textbf{2012},
+  \emph{109}, 128302\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\end{mcitethebibliography}

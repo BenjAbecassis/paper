@@ -1,0 +1,673 @@
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.8.1)  14 MAY 2013 01:32
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**article.tex
+(./article.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, dumylang, nohyphenation, ge
+rman-x-2009-06-19, ngerman-x-2009-06-19, afrikaans, ancientgreek, ibycus, arabi
+c, armenian, basque, bulgarian, catalan, pinyin, coptic, croatian, czech, danis
+h, dutch, ukenglish, usenglishmax, esperanto, estonian, ethiopic, farsi, finnis
+h, french, galician, german, ngerman, swissgerman, monogreek, greek, hungarian,
+ icelandic, assamese, bengali, gujarati, hindi, kannada, malayalam, marathi, or
+iya, panjabi, tamil, telugu, indonesian, interlingua, irish, italian, kurmanji,
+ lao, latin, latvian, lithuanian, mongolian, mongolianlmc, bokmal, nynorsk, pol
+ish, portuguese, romanian, russian, sanskrit, serbian, serbianc, slovak, sloven
+ian, spanish, swedish, turkish, turkmen, ukrainian, uppersorbian, welsh, loaded
+.
+(/usr/local/texlive/2011/texmf-dist/tex/latex/achemso/achemso.cls
+Document Class: achemso 2011/03/11 v3.5g Submission to ACS journals
+(/usr/local/texlive/2011/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2011/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2008/08/13 v2.6a package option processing (HA)
+
+(/usr/local/texlive/2011/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+\XKV@toks=\toks14
+\XKV@tempa@toks=\toks15
+\XKV@depth=\count87
+File: xkeyval.tex 2008/08/13 v2.6a key=value parser (HA)
+
+(/usr/local/texlive/2011/texmf-dist/tex/generic/xkeyval/keyval.tex)))
+\acs@bib@file=\write3
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/mciteplus/mciteplus.sty
+Package: mciteplus 2008/09/30 v1.1 enhanced mcite
+\@mcitetmptoksA=\toks16
+\@mcitetmpdima=\dimen103
+\@mcitetmpdimb=\dimen104
+\@mcitetmpcnta=\count88
+\@mcitetmpcntb=\count89
+\c@mcitebibitemcount=\count90
+\c@mcitesubitemcount=\count91
+)
+\c@bibnote=\count92
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+))
+(/usr/local/texlive/2011/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Switches for detecting VTeX and its modes (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/local/texlive/2011/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count93
+\Gm@cntv=\count94
+\c@Gm@tempcnt=\count95
+\Gm@bindingoffset=\dimen105
+\Gm@wd@mp=\dimen106
+\Gm@odd@mp=\dimen107
+\Gm@even@mp=\dimen108
+\Gm@layoutwidth=\dimen109
+\Gm@layoutheight=\dimen110
+\Gm@layouthoffset=\dimen111
+\Gm@layoutvoffset=\dimen112
+\Gm@dimlist=\toks17
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/psnfss/helvet.sty
+Package: helvet 2005/04/12 PSNFSS-v9.2a (WaS) 
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2010/01/09 v3.1m Customizing captions (AR)
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2010/01/14 v3.1m caption3 kernel (AR)
+\captionmargin=\dimen113
+\captionmargin@=\dimen114
+\captionwidth=\dimen115
+\caption@indent=\dimen116
+\caption@parindent=\dimen117
+\caption@hangindent=\dimen118
+)
+\c@ContinuedFloat=\count96
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/psnfss/courier.sty
+Package: courier 2005/04/12 PSNFSS-v9.2a (WaS) 
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count97
+\float@exts=\toks18
+\float@box=\box26
+\@float@everytoks=\toks19
+\@floatcapt=\box27
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
+)
+(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count98
+))
+\Gin@req@height=\dimen119
+\Gin@req@width=\dimen120
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/psnfss/mathptmx.sty
+Package: mathptmx 2005/04/12 PSNFSS-v9.2a Times w/ Math, improved (SPQR, WaS) 
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+\symbold=\mathgroup4
+\symitalic=\mathgroup5
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/ptm/m/it on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 35.
+LaTeX Info: Redefining \hbar on input line 50.
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2000/12/01 6.7 Contributed and Supported LaTeX2e package
+
+Package: `setspace' 6.7 <2000/12/01>
+) (/usr/local/texlive/2011/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/cleveref/cleveref.sty
+Package: cleveref 2011/03/22 v0.17.9 Intelligent cross-referencing
+Package cleveref Info: always capitalise cross-reference names on input line 54
+91.
+Package cleveref Info: loaded `english' language definitions on input line 5499
+.
+Package cleveref Info: always capitalise cross-reference names on input line 55
+00.
+)
+\acs@author@cnt=\count99
+\acs@affil@cnt=\count100
+\acs@affil@alt@cnt=\count101
+\acs@footnote@cnt=\count102
+\acs@affil@marker@cnt=\count103
+\acs@space@pre@title=\skip43
+\acs@space@post@title=\skip44
+\acs@space@post@author=\skip45
+\acs@space@post@address=\skip46
+\acs@space@post@email=\skip47
+\acs@maketitle@width=\skip48
+\@float@every@scheme=\toks20
+\c@scheme=\count104
+\@float@every@chart=\toks21
+\c@chart=\count105
+\@float@every@graph=\toks22
+\c@graph=\count106
+\@float@every@table=\toks23
+\acs@collect@toks=\toks24
+\acs@collect@empty@toks=\toks25
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/achemso/config/jacsat.cfg
+File: jacsat.cfg 2011/03/11 v3.5g achemso configuration: J. Am. Chem. Soc.
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip49
+\bibsep=\skip50
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count107
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/achemso/natmove.sty
+Package: natmove 2010/01/15 v1.1a Automatic citation moving with natbib
+))
+(./article.aux)
+\openout1 = `article.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Try loading font information for T1+ptm on input line 29.
+ (/usr/local/texlive/2011/texmf-dist/tex/latex/psnfss/t1ptm.fd
+File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
+)
+\openout3 = `acs-article.bib'.
+
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(54.91382pt, 504.46736pt, 54.91382pt)
+* v-part:(T,H,B)=(36.13498pt, 711.03438pt, 47.80063pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=504.46736pt
+* \textheight=711.03438pt
+* \oddsidemargin=-17.35617pt
+* \evensidemargin=-17.35617pt
+* \topmargin=-73.13501pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=23.04674pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumntrue
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: End \AtBeginDocument code.
+(/usr/local/texlive/2011/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count108
+\scratchdimen=\dimen121
+\scratchbox=\box28
+\nofMPsegments=\count109
+\nofMParguments=\count110
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count111
+\MPscratchDim=\dimen122
+\MPnumerator=\count112
+\makeMPintoPDFobject=\count113
+\everyMPtoPDFconversion=\toks27
+) (/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/04/22 v0.16 Utilities of pdfTeX for LuaTeX (HO)
+
+(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Managing graphics extensions (HO)
+
+(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Defining keys (HO)
+))
+(/usr/local/texlive/2011/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2010/12/23 v3.10 Keyval support for LaTeX options (HO)
+
+(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2011/04/07 v1.13 Key value parser (HO)
+
+(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Prefix for e-TeX command names (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+\big@size=\dimen123
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 29.
+LaTeX Font Info:    Try loading font information for T1+phv on input line 29.
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/psnfss/t1phv.fd
+File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
+)
+LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <12> not available
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 29.
+LaTeX Font Info:    Font shape `T1/phv/b/n' will be
+(Font)              scaled to size 10.79993pt on input line 29.
+LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <20.74> not available
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 29.
+LaTeX Font Info:    Font shape `T1/phv/b/n' will be
+(Font)              scaled to size 18.66588pt on input line 29.
+LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 12.9599pt on input line 29.
+LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 29
+.
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
+File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 29
+.
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/psnfss/omlztmcm.fd
+File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 29
+.
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/psnfss/omsztmcm.fd
+File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 29
+.
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/psnfss/omxztmcm.fd
+File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 29.
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 29.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 29.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 29.
+LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 9.85492pt on input line 29.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 29.
+LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 10.79993pt on input line 29.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 29.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 29.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 29.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 29.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 29.
+LaTeX Font Info:    Calculating math sizes for size <7.4> on input line 29.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5.47603> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 29.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <4.44003> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 29.
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <17.28> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 31.
+
+Underfull \hbox (badness 6125) in paragraph at lines 36--37
+\T1/ptm/m/n/12 Self as-sem-bly of anisotropic nanopar-ti-cles.$[]$
+ []
+
+
+Underfull \hbox (badness 1320) in paragraph at lines 38--39
+[]\T1/ptm/m/n/12 Semi-conducting col-loidal nanoplatelets have
+ []
+
+
+Underfull \hbox (badness 3792) in paragraph at lines 42--43
+[]\T1/ptm/m/n/12 Here we study the self as-sem-bly of 510
+ []
+
+LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 49.
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--50
+\T1/ptm/b/it/12 Chemicals \T1/ptm/m/n/12 : Cad-mium ac-etate di-hy-drate
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--50
+
+ []
+
+[1{/usr/local/texlive/2011/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 51--52
+
+ []
+
+Missing character: There is no â in font zptmcm7t!
+Missing character: There is no ˆ in font zptmcm7t!
+Missing character: There is no ’ in font zptmcm7t!
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--54
+
+ []
+
+
+Underfull \hbox (badness 1668) in paragraph at lines 55--56
+[]\T1/ptm/b/it/12 Transmission Elec-tron Mi-croscopy \T1/ptm/m/n/12 : TEM
+ []
+
+
+</Users/abecarix/Boulot/CdSe/article_benjamin/figures/figure1/figure1.pdf, id=1
+3, 561.09625pt x 533.995pt>
+File: /Users/abecarix/Boulot/CdSe/article_benjamin/figures/figure1/figure1.pdf 
+Graphic file (type pdf)
+
+<use /Users/abecarix/Boulot/CdSe/article_benjamin/figures/figure1/figure1.pdf>
+Package pdftex.def Info: /Users/abecarix/Boulot/CdSe/article_benjamin/figures/f
+igure1/figure1.pdf used on input line 59.
+(pdftex.def)             Requested size: 240.71031pt x 229.08374pt.
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 63.
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--65
+\T1/ptm/m/n/12 TEM im-ages of the as-synthesized CdSe
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--65
+
+ []
+
+[2 </Users/abecarix/Boulot/CdSe/article_benjamin/figures/figure1/figure1.pdf>]
+</Users/abecarix/Boulot/CdSe/article_benjamin/figures/fit.pdf, id=54, 423.5825p
+t x 332.24126pt>
+File: /Users/abecarix/Boulot/CdSe/article_benjamin/figures/fit.pdf Graphic file
+ (type pdf)
+
+<use /Users/abecarix/Boulot/CdSe/article_benjamin/figures/fit.pdf>
+Package pdftex.def Info: /Users/abecarix/Boulot/CdSe/article_benjamin/figures/f
+it.pdf used on input line 71.
+(pdftex.def)             Requested size: 240.71031pt x 188.80154pt.
+ [3 </Users/abecarix/Boulot/CdSe/article_benjamin/figures/fit.pdf>]
+</Users/abecarix/Boulot/CdSe/article_benjamin/figures/sqwim.pdf, id=65, 558.085
+pt x 396.48125pt>
+File: /Users/abecarix/Boulot/CdSe/article_benjamin/figures/sqwim.pdf Graphic fi
+le (type pdf)
+
+<use /Users/abecarix/Boulot/CdSe/article_benjamin/figures/sqwim.pdf>
+Package pdftex.def Info: /Users/abecarix/Boulot/CdSe/article_benjamin/figures/s
+qwim.pdf used on input line 83.
+(pdftex.def)             Requested size: 240.71031pt x 171.00389pt.
+
+Underfull \hbox (badness 1132) in paragraph at lines 84--84
+\T1/ptm/m/n/12 Top in-set : 2D SAXS im-age of the stacked
+ []
+
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 88.
+
+Package natbib Warning: Citation `guinier_book' on page 4 undefined on input li
+ne 88.
+
+
+</Users/abecarix/Boulot/CdSe/article_benjamin/figures/cvar.pdf, id=66, 986.6862
+5pt x 928.46875pt>
+File: /Users/abecarix/Boulot/CdSe/article_benjamin/figures/cvar.pdf Graphic fil
+e (type pdf)
+
+<use /Users/abecarix/Boulot/CdSe/article_benjamin/figures/cvar.pdf>
+Package pdftex.def Info: /Users/abecarix/Boulot/CdSe/article_benjamin/figures/c
+var.pdf used on input line 98.
+(pdftex.def)             Requested size: 240.71031pt x 226.50638pt.
+
+Underfull \hbox (badness 3386) in paragraph at lines 99--99
+[]\T1/ptm/m/n/12 Figure 4: |SAXS pat-terns of stacked CdSe
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 102--103
+
+ []
+
+(./article.bbl
+Underfull \hbox (badness 1533) in paragraph at lines 31--38
+[]\T1/ptm/m/n/12 Saunders, A. E.; Ghezel-bash, A.; Smil-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--62
+[]\T1/ptm/m/n/12 Jones, M. R.; Mac-far-lane, R. J.;
+ []
+
+[4 </Users/abecarix/Boulot/CdSe/article_benjamin/figures/sqwim.pdf> </Users/abe
+carix/Boulot/CdSe/article_benjamin/figures/cvar.pdf>]
+Underfull \hbox (badness 1275) in paragraph at lines 101--107
+[]\T1/ptm/m/n/12 Yang, Y. A.; Wu, H.; Williams, K. R.;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--114
+[]\T1/ptm/m/n/12 Smilgies, D. M. \T1/ptm/m/it/12 J. Appl.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--114
+\T1/ptm/m/it/12 Cryst (2009). 42, 1030-1034
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--114
+\T1/ptm/m/it/12 [doi:10.1107/S0021889809040126] \T1/ptm/b/n/12 2009\T1/ptm/m/n/
+12 ,
+ []
+
+)
+
+Package natbib Warning: There were undefined citations.
+
+[5
+
+] (./article.aux)
+
+ *File List*
+ achemso.cls    2011/03/11 v3.5g Submission to ACS journals
+ article.cls    2007/10/19 v1.4h Standard LaTeX document class
+  size12.clo    2007/10/19 v1.4h Standard LaTeX file (size option)
+ xkeyval.sty    2008/08/13 v2.6a package option processing (HA)
+ xkeyval.tex    2008/08/13 v2.6a key=value parser (HA)
+mciteplus.sty    2008/09/30 v1.1 enhanced mcite
+ fontenc.sty
+   t1enc.def    2005/09/27 v1.99g Standard LaTeX file
+geometry.sty    2010/09/12 v5.6 Page Geometry
+   ifpdf.sty    2011/01/30 v2.3 Provides the ifpdf switch (HO)
+  ifvtex.sty    2010/03/01 v1.5 Switches for detecting VTeX and its modes (HO)
+ ifxetex.sty    2010/09/12 v0.6 Provides ifxetex conditional
+  helvet.sty    2005/04/12 PSNFSS-v9.2a (WaS) 
+ caption.sty    2010/01/09 v3.1m Customizing captions (AR)
+caption3.sty    2010/01/14 v3.1m caption3 kernel (AR)
+ courier.sty    2005/04/12 PSNFSS-v9.2a (WaS) 
+   float.sty    2001/11/08 v1.3d Float enhancements (AL)
+graphicx.sty    1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+graphics.sty    2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+    trig.sty    1999/03/16 v1.09 sin cos tan (DPC)
+graphics.cfg    2010/04/23 v1.9 graphics configuration of TeX Live
+  pdftex.def    2011/05/27 v0.06d Graphics/color for pdfTeX
+infwarerr.sty    2010/04/08 v1.3 Providing info/warning/message (HO)
+ ltxcmds.sty    2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
+mathptmx.sty    2005/04/12 PSNFSS-v9.2a Times w/ Math, improved (SPQR, WaS) 
+setspace.sty    2000/12/01 6.7 Contributed and Supported LaTeX2e package
+     url.sty    2006/04/12  ver 3.3  Verb mode for urls, etc.
+cleveref.sty    2011/03/22 v0.17.9 Intelligent cross-referencing
+  jacsat.cfg    2011/03/11 v3.5g achemso configuration: J. Am. Chem. Soc.
+  natbib.sty    2010/09/13 8.31b (PWD, AO)
+ natmove.sty    2010/01/15 v1.1a Automatic citation moving with natbib
+   t1ptm.fd    2001/06/04 font definitions for T1/ptm.
+supp-pdf.mkii
+pdftexcmds.sty    2011/04/22 v0.16 Utilities of pdfTeX for LuaTeX (HO)
+ifluatex.sty    2010/03/01 v1.3 Provides the ifluatex switch (HO)
+epstopdf-base.sty    2010/02/09 v2.5 Base part for package epstopdf
+  grfext.sty    2010/08/19 v1.1 Managing graphics extensions (HO)
+kvdefinekeys.sty    2011/04/07 v1.3 Defining keys (HO)
+kvoptions.sty    2010/12/23 v3.10 Keyval support for LaTeX options (HO)
+kvsetkeys.sty    2011/04/07 v1.13 Key value parser (HO)
+etexcmds.sty    2011/02/16 v1.5 Prefix for e-TeX command names (HO)
+epstopdf-sys.cfg    2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+   t1phv.fd    2001/06/04 scalable font definitions for T1/phv.
+ot1ztmcm.fd    2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
+omlztmcm.fd    2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
+omsztmcm.fd    2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
+omxztmcm.fd    2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
+  ot1ptm.fd    2001/06/04 font definitions for OT1/ptm.
+/Users/abecarix/Boulot/CdSe/article_benjamin/figures/figure1/figure1.pdf
+/Users/abecarix/Boulot/CdSe/article_benjamin/figures/fit.pdf
+/Users/abecarix/Boulot/CdSe/article_benjamin/figures/sqwim.pdf
+/Users/abecarix/Boulot/CdSe/article_benjamin/figures/cvar.pdf
+ article.bbl
+ ***********
+
+ ) 
+Here is how much of TeX's memory you used:
+ 6232 strings out of 493633
+ 106111 string characters out of 3143378
+ 210391 words of memory out of 3000000
+ 9405 multiletter control sequences out of 15000+200000
+ 85405 words of font info for 131 fonts, out of 3000000 for 9000
+ 831 hyphenation exceptions out of 8191
+ 60i,10n,94p,1805b,487s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/usr/local/texlive/2011/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
+exlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/te
+xlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texl
+ive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texli
+ve/2011/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2011
+/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2011/texmf-
+dist/fonts/type1/urw/symbol/usyr.pfb></usr/local/texlive/2011/texmf-dist/fonts/
+type1/urw/times/utmb8a.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/urw/
+times/utmbi8a.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/urw/times/utm
+r8a.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on article.pdf (5 pages, 1030319 bytes).
+PDF statistics:
+ 140 PDF objects out of 1000 (max. 8388607)
+ 100 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+
